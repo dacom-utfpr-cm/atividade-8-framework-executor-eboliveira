@@ -26,6 +26,10 @@
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Eduardo Barbosa\Documents\Concorrente\atividade-8-framework-executor-eboliveira\6\src" />
+      <recent name="C:\Users\Eduardo Barbosa\Documents\Concorrente\atividade-8-framework-executor-eboliveira\5\src" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Eduardo Barbosa\Documents\Concorrente\atividade-8-framework-executor-eboliveira\3\src" />
       <recent name="C:\Users\Eduardo Barbosa\Documents\Concorrente\atividade-8-framework-executor-eboliveira\2\src" />
@@ -43,7 +47,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.3">
+  <component name="RunManager" selected="Kotlin.6">
     <configuration name="1" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true">
       <module name="1" />
       <option name="VM_PARAMETERS" value="" />
@@ -83,13 +87,43 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="5" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true">
+      <module name="5" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="6" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true">
+      <module name="6" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Kotlin.1" />
       <item itemvalue="Kotlin.2" />
       <item itemvalue="Kotlin.3" />
+      <item itemvalue="Kotlin.5" />
+      <item itemvalue="Kotlin.6" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.6" />
+        <item itemvalue="Kotlin.5" />
         <item itemvalue="Kotlin.3" />
         <item itemvalue="Kotlin.2" />
         <item itemvalue="Kotlin.1" />
